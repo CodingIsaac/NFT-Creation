@@ -1,0 +1,16 @@
+{
+    "description": "Friendly Comic Character of Manimals, telling us about the evolution of mortals.", 
+    "external_url": "https://gateway.pinata.cloud/ipfs/QmPbcZNqmM178KRdtVqTygKge8twVKtpyPuAUqRjP5Anmt", 
+    "image": "ipfs://QmPbcZNqmM178KRdtVqTygKge8twVKtpyPuAUqRjP5Anmt", 
+    "name": "Manimal",
+    "attributes": [{
+        "display-type": "boost_percentage",
+        "trait_type": "Personality",
+        "value": "Generation"
+    }]
+    
+  
+  
+
+
+}
